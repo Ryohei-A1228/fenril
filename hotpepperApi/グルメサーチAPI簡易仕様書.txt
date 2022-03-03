@@ -4,6 +4,7 @@
 ## 対象OS、ブラウザ
 Windows10
 macOS 11.0 
+Google Calendar 97.0.4692.99
 Microsoft Edge 98.0.1108.43
 で動作検証済み
 

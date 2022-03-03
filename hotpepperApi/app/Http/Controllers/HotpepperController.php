@@ -90,7 +90,7 @@ class HotpepperController extends Controller
         
         $shopdetail = $details["shop"];
 
-        // index.blade.phpに検索結果を返す
+        // detail.blade.phpに検索結果を返す
         return view('detail', compact('shopdetail'));
     }
 }
